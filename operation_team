@@ -1,0 +1,6 @@
+DevOps is a set of practices, tools, and cultural philosophies that combine software development
+(Dev) and IT operations (Ops) to build, test, and release software faster and more reliably.
+The DevOps Lifecycle StagesPlan & Code: Teams outline project goals and manage source code using version control systems like GitLab.Build
+Test: Code is automatically compiled and checked for bugs or security flaws through automated testing.
+Deploy: Applications are rolled out to production using platforms like Kubernetes or automated CI/CD pipelines.Operate 
+Monitor: Systems track performance metrics and logs to ensure high availability and user satisfaction.
